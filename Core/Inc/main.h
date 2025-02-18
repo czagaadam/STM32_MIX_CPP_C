@@ -3,7 +3,7 @@
  *
  *  Author: Adam Czaga czagaadam@gmail.com
  *
- *  Demonstration of how to use GPIO parent class and Din,Doutt inherited classes
+ *  Demonstrate how to use together C++ C and pre-compiled object (VL53L0x distance sensor)
  *
  */
 
